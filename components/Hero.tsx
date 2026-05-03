@@ -108,7 +108,7 @@ export default function Hero() {
               View My Work
             </motion.button>
             <motion.a
-              href="/ayushcv.pdf"
+              href="/ayushmandal.pdf"
               download
               className="px-7 py-3 rounded-xl font-medium text-[#06B6D4] border border-[#06B6D4] flex items-center gap-2"
               style={{ fontFamily: "'DM Sans', sans-serif" }}
